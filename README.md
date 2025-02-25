@@ -3,9 +3,9 @@
 Većina ovih modula je pull-ovana bez izmjena sa https://github.com/OCA.
 
 Samo neki od njih su mijenjani:
-# payroll
-# report_xlsx
-# report_csv
+1. payroll
+2. report_xlsx
+3. report_csv
 
 # Napomene
 
